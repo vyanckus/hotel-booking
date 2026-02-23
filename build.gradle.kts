@@ -34,7 +34,7 @@ dependencies {
 	implementation("org.springframework.kafka:spring-kafka")
 
 	implementation("org.mapstruct:mapstruct:1.5.3.Final")
-	implementation("org.springdoc:springdoc-openapi-starter-webmvc-ui:2.3.0")
+	implementation("org.springdoc:springdoc-openapi-starter-webmvc-ui:2.8.6")
 	implementation("com.opencsv:opencsv:5.7.1")
 
 	compileOnly("org.projectlombok:lombok")
